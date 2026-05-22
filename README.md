@@ -34,10 +34,10 @@ So I built **PassGuardian** — a lightweight desktop app that gives immediate f
 - PyInstaller (for .exe packaging)
 
 ---
-Strength Evaluation Logic
-Password length check
-Uppercase/lowercase detection
-Numbers
-Special characters
-Character diversity
-Real-time suggestions
+Strength Evaluation Logic:
+-Password length check
+-Uppercase/lowercase detection
+-Numbers
+-Special characters
+-Character diversity
+-Real-time suggestions
