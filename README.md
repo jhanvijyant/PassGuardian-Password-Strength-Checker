@@ -1,4 +1,4 @@
-# PassGuardian — Password Strength Analyzer
+# PassGuardian — Real-time password auditing tool aligned with NIST SP 800-63B with HaveIBeenPwned breach detection"
 
 > A real-time password auditing tool built with Python, aligned with NIST SP 800-63B guidelines and integrated with the HaveIBeenPwned API to detect breached credentials.
 
